@@ -9,3 +9,4 @@ Dla strategii przyrostowej skrypt generuje losowy string o długości tej samej 
 Użytkownik może zdefiniować przez parametry żeby losowane były tylko małe litery lub wielkie i małe litery. Należy wtedy także sprawdzić czy string wzór zawiera tylko litery wyspecyfikowane przez użytkownika i zakończyć działanie z błędem jesli tak nie jest.
 
 Skrypt wyświetla pomoc (wszystkie parametry i ich objaśnienia) jeśli użytkownik poda parametr -h.
+https://www.cs.put.poznan.pl/tkobus/students/sop1/skrypty_zad.html#zgadywanie-stringow - zrodlo
